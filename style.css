@@ -449,7 +449,7 @@ video {
 @font-face {
   font-family: 'IRANSansXV';
 
-  src: url(../fonts/IRANSansXV.woff2) format('woff2');
+  src: url(./IRANSansXV.woff2) format('woff2');
 }
 
 *, ::before, ::after {
