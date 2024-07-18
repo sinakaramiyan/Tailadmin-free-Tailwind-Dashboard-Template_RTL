@@ -446,12 +446,6 @@ video {
   display: none;
 }
 
-@font-face {
-  font-family: 'IRANSansXV';
-
-  src: url(./IRANSansXV.woff2) format('woff2');
-}
-
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
@@ -2158,10 +2152,6 @@ video {
 
 .ease-linear {
   transition-timing-function: linear;
-}
-
-html {
-  font-family: 'IRANSansXV';
 }
 
 .before\:absolute::before {
