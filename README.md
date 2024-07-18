@@ -7,7 +7,7 @@ TailAdmin is a high-quality, open-source, and **free Tailwind CSS admin template
 
 **Lnguage:** persion
 
-**Project Preview**: [tailadmin-RTL](https://sinakaramiyan.github.io/tailadmin-RTL/)
+### ✨[Tailadmin-free-Tailwind-Dashboard-Template_RTL](https://sinakaramiyan.github.io/Tailadmin-free-Tailwind-Dashboard-Template_RTL/)
 
 ___
 ## Main Project Links
@@ -44,7 +44,7 @@ Use terminal and navigate to the project (tailadmin) root.
 - Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/sinakaramiyan/tailadmin-free-tailwind-dashboard-template-RTL
+git clone https://github.com/sinakaramiyan/Tailadmin-free-Tailwind-Dashboard-Template_RTL/tree/main/main
 ```
 - Then run : <code>npm install</code> to install dependencies
 
