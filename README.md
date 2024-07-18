@@ -45,8 +45,12 @@ Use terminal and navigate to the project (tailadmin) root.
 - Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/sinakaramiyan/Tailadmin-free-Tailwind-Dashboard-Template_RTL/tree/main/main
+git clone https://github.com/sinakaramiyan/Tailadmin-free-Tailwind-Dashboard-Template_RTL/
 ```
+- Then run : <code>cd main</code> to go to the main project
+> [!TIP]
+> for create a github preview tha main project files in main subdirectory.
+
 - Then run : <code>npm install</code> to install dependencies
 
 - Then run : <code>npm start</code> to run the project in dev mode
