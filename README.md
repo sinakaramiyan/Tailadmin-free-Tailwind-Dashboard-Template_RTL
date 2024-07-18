@@ -8,9 +8,7 @@ TailAdmin is a high-quality, open-source, and **free Tailwind CSS admin template
 
 **Lnguage:** persion
 
-## This Project Links
-
-### ✨[Tailadmin-free-Tailwind-Dashboard-Template_RTL](https://sinakaramiyan.github.io/Tailadmin-free-Tailwind-Dashboard-Template_RTL/)
+**PROJECT PREVIEW:** ✨[Tailadmin-free-Tailwind-Dashboard-Template_RTL](https://sinakaramiyan.github.io/Tailadmin-free-Tailwind-Dashboard-Template_RTL/)
 
 ___
 ## Main Project Links
