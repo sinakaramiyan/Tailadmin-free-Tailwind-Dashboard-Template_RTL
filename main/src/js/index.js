@@ -25,6 +25,8 @@ class app{
         element.addEventListener('click', function(e){
           e.preventDefault();
   
+          aside.classList.add('translate-x-full');
+
           //for go to top should set overflow-y-scroll for element
           main.parentElement.scrollTo({
             top: 0,
@@ -100,6 +102,17 @@ class app{
           }
         }
       });
+
+      //admin menu toggler to hide and show with translate-x
+      const menu = document.querySelector('#menu');
+      const menutoggle = document.querySelector('#menu-toggle');
+      const aside = document.querySelector('#aside');
+      menu.addEventListener('click', (e) => {
+        aside.classList.remove('translate-x-full')
+      })
+      menutoggle.addEventListener('click', (e) => {
+        aside.classList.add('translate-x-full');
+      })
     }
   }
   new app();
