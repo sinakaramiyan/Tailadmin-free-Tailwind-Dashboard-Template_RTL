@@ -954,7 +954,7 @@ video {
   height: 0.75rem;
 }
 
-.h-32 {
+.md:h-32 h-20 {
   height: 8rem;
 }
 
